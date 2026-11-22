@@ -1,0 +1,37 @@
+{
+  "topic": "太陽系五顆行星",
+  "created": "2026-11-22",
+  "slides": 10,
+  "sources": [
+    {
+      "id": "S01",
+      "slug": "mercury",
+      "name": "水星",
+      "url": "https://science.nasa.gov/mercury/facts/"
+    },
+    {
+      "id": "S02",
+      "slug": "venus",
+      "name": "金星",
+      "url": "https://science.nasa.gov/venus/venus-facts/"
+    },
+    {
+      "id": "S03",
+      "slug": "earth",
+      "name": "地球",
+      "url": "https://science.nasa.gov/earth/facts/"
+    },
+    {
+      "id": "S04",
+      "slug": "mars",
+      "name": "火星",
+      "url": "https://science.nasa.gov/mars/facts/"
+    },
+    {
+      "id": "S05",
+      "slug": "jupiter",
+      "name": "木星",
+      "url": "https://science.nasa.gov/jupiter/jupiter-facts/"
+    }
+  ]
+}
